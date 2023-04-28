@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.image{
+.moviePic{
 	height:50px;
 	width:100px;
 	opacity:70px;
 }
-.para{
+.movieDetail{
 	position:relative;
 	top:50px;
 	width:79px;
